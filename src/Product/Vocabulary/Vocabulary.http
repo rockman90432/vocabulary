@@ -1,0 +1,6 @@
+@Vocabulary_HostAddress = http://localhost:5151
+
+GET {{Vocabulary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
